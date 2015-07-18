@@ -10,8 +10,9 @@ Simple wrapper for globelabs SMS api
 var Charge = require('globelabs-charge');
 ```
 
+## Usage
+
 ```javascript
-/charging to subscriber
 var charge = Charge(token);
 
 var options = {
