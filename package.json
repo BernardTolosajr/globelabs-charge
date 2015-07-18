@@ -6,6 +6,10 @@
   "scripts": {
     "test": "node_modules/.bin/mocha --reporter spec --require test/bootstrap/node test/*.test.js"
   },
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/BernardTolosajr/globelabs-charge"
+  },
   "keywords": [
     "globelabs"
   ],
