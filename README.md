@@ -1,5 +1,5 @@
-# globelabs-sms [![Build Status](https://travis-ci.org/BernardTolosajr/globelabs-charge.svg?branch=master)](https://travis-ci.org/BernardTolosajr/globelabs-charge)
-Simple wrapper for globelabs SMS api
+# globelabs-charging [![Build Status](https://travis-ci.org/BernardTolosajr/globelabs-charge.svg?branch=master)](https://travis-ci.org/BernardTolosajr/globelabs-charge)
+Simple wrapper for globelabs charge api
 
 ## Installation
 ```npm install globelabs-charging```
