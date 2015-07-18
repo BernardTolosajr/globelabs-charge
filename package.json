@@ -1,0 +1,23 @@
+{
+  "name": "globelabs-charging",
+  "version": "0.0.1",
+  "description": "simple wrapper for globelabs charging API",
+  "main": "./lib",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --reporter spec --require test/bootstrap/node test/*.test.js"
+  },
+  "keywords": [
+    "globelabs"
+  ],
+  "author": "bernard tolosa <bernardotolosajr@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.1.0",
+    "mocha": "^2.2.5",
+    "nock": "^2.7.0"
+  },
+  "dependencies": {
+    "needle": "^0.10.0",
+    "node-fetch": "^1.3.1"
+  }
+}
