@@ -1,6 +1,6 @@
 {
   "name": "globelabs-charging",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "simple wrapper for globelabs charging API",
   "main": "./lib",
   "scripts": {
