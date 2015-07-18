@@ -7,7 +7,7 @@ Simple wrapper for globelabs SMS api
 ## Setup
 
 ```javascript
-var Charge = require('globelabs-charge');
+var Charge = require('globelabs-charging');
 ```
 
 ## Usage
