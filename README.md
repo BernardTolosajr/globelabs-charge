@@ -2,7 +2,7 @@
 Simple wrapper for globelabs SMS api
 
 ## Installation
-```npm install globelabs-charge```
+```npm install globelabs-charging```
 
 ## Setup
 
