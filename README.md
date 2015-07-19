@@ -1,4 +1,6 @@
-# globelabs-charging [![Build Status](https://travis-ci.org/BernardTolosajr/globelabs-charge.svg?branch=master)](https://travis-ci.org/BernardTolosajr/globelabs-charge)
+# globelabs-charging 
+[![Build Status](https://travis-ci.org/BernardTolosajr/globelabs-charge.svg?branch=master)](https://travis-ci.org/BernardTolosajr/globelabs-charge)
+
 Simple wrapper for globelabs charge api
 
 ## Installation
