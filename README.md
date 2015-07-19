@@ -1,5 +1,6 @@
-# globelabs-charging 
-[![Build Status](https://travis-ci.org/BernardTolosajr/globelabs-charge.svg?branch=master)](https://travis-ci.org/BernardTolosajr/globelabs-charge)
+# globelabs-charging [![Build Status](https://travis-ci.org/BernardTolosajr/globelabs-charge.svg?branch=master)](https://travis-ci.org/BernardTolosajr/globelabs-charge)
+
+[![NPM](https://nodei.co/npm/globelabs-charging.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/globelabs-charging/)
 
 Simple wrapper for globelabs charge api
 
