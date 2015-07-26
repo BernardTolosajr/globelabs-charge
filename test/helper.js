@@ -8,7 +8,7 @@ module.exports.stubCharging = function(token) {
 
       var scope = nock('https://devapi.globelabs.com.ph')
         .post(url, params)
-        .reply(200, {
+        .reply(201, {
           amountTransaction: {
           endUserId: '9175595283',
           paymentAmount: {
